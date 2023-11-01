@@ -1,0 +1,74 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+  }
+  
+  h1 {
+    color: #333;
+    font-size: 2em;
+    text-align: center;
+  }
+  img{
+    width:30%;
+    padding-left: 240px;
+    padding-bottom: 10px; 
+  }
+  p {
+    color: #666;
+    max-width: 360px;
+    font-size: 15px;
+    margin-bottom: 20px;
+  }
+  #psw{
+    margin-top: -10px;
+    font-size: 15px;
+
+  }
+form {
+    margin: auto;
+    max-width: 400px;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+    h2 {
+    font-size: 27px;
+    margin-bottom: 20px;
+  }
+    label {
+    display: block;
+    margin-bottom: -17px;
+    font-size: 16px;
+    font-weight: bold;
+  }
+  select{
+    width: 25%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    font-size: 16px;
+  }
+  input[type="mobile-number"]{
+    width: 65%;
+  }
+ input {
+    width: 90%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    font-size: 16px;
+  }
+  button{
+    background-color: rgb(255, 213, 0);
+    /* color: black; */
+    padding: 10px 160px;
+    border: none !important;
+    border-radius: 15px;
+    cursor: pointer;
+    font-size: 18px;
+  }
+  
